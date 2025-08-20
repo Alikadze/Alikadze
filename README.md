@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey, What's up?</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Angular/.NET<br>💡 Exploring: Advanced state management techniques and building scalable backend solutions.<br>🛠️ Building: Unique, professional websites and applications with creative designs.<br>🎯 Goals: To master full-stack development and create seamless user experiences.<br>
+<p align="left"> Creating bugs since 2022<br>📚 I'm currently learning Angular/.NET<br> Exploring: Advanced state management techniques and building scalable backend solutions.<br> Building: Unique, professional websites and applications with creative designs.<br> Goals: To master full-stack development and create seamless user experiences.<br>
 </p>
 
 ###
